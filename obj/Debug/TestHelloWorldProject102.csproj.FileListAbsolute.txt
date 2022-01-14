@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\bin\Debug\TestHelloWorldProject102.exe.config
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\bin\Debug\TestHelloWorldProject102.exe
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\bin\Debug\TestHelloWorldProject102.pdb
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\obj\Debug\TestHelloWorldProject102.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\obj\Debug\TestHelloWorldProject102.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\obj\Debug\TestHelloWorldProject102.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\obj\Debug\TestHelloWorldProject102.exe
+C:\Users\shaba\source\repos\TestHelloWorldProject102\TestHelloWorldProject102\obj\Debug\TestHelloWorldProject102.pdb
