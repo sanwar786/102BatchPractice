@@ -11,7 +11,9 @@ namespace TestHelloWorldProject102
         static void Main(string[] args)
         {
             //ReversNumber.FindReverseNumber();
-            fibonocciSeries.FindFibonocciSeries();
+            //fibonocciSeries.FindFibonocciSeries();
+            //PrimeNumbers.FindPrimeNumbers();
+            Palindrome.findPalindrome();
             Console.ReadLine();
         }
     }
